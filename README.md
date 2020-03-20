@@ -11,7 +11,7 @@ The main focus here is on making a DevOps workflow for this flask app using dock
 
 ## Setup the Environment
 
-* Create a virtualenv and activate it
+* <a href="https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/">Create a virtualenv and activate it</a>
 * Run `make install` to install the necessary dependencies
 
 ### Running `app.py`
